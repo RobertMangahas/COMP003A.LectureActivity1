@@ -15,7 +15,7 @@ namespace COMP003A.LectureActivity1
         static void Main(string[] args)
         {
             // Display a simple message
-            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Hello, World.");
         }
     }
 }
